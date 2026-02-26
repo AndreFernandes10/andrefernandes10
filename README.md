@@ -9,6 +9,7 @@ Atuo criando soluções escaláveis, interfaces performáticas e integrações r
 ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 - Aplicações corporativas
 - Rest/HTTP integrations
+  
 ![Firebird](https://img.shields.io/badge/Firebird-CC0000?style=for-the-badge&logo=firebird&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -16,7 +17,8 @@ Atuo criando soluções escaláveis, interfaces performáticas e integrações r
 - Gerenciamento de estado (Provider, Riverpod, Bloc)
 - Integração com Firebase
 - Animações e UI avançada
-![Firebase_Platform](https://img.shields.io/badge/Firebase_Platform-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+![Firebase](https://img.shields.io/badge/Firebase_Platform-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - Automação de processos
