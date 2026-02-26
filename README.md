@@ -5,7 +5,7 @@ Atualmente atuo criando soluções escaláveis, interfaces performáticas e inte
 
 ## 🚀 Tecnologias que utilizo no dia a dia
 
-### 💙 Flutter
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 - Desenvolvimento de apps escaláveis
 - Gerenciamento de estado (Provider, Riverpod, Bloc)
 - Integração com Firebase
@@ -14,8 +14,10 @@ Atualmente atuo criando soluções escaláveis, interfaces performáticas e inte
 ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 - Aplicações corporativas
 - Rest/HTTP integrations
+- 
 ![Firebird](https://img.shields.io/badge/Firebird-CC0000?style=for-the-badge&logo=firebird&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 - Automação de processos
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
