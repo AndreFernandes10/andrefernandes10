@@ -5,7 +5,7 @@ Atualmente atuo criando soluções escaláveis, interfaces performáticas e inte
 
 ## 🚀 Tecnologias que utilizo no dia a dia
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - Desenvolvimento de apps escaláveis
 - Gerenciamento de estado (Provider, Riverpod, Bloc)
 - Integração com Firebase
