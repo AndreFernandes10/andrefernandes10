@@ -4,7 +4,7 @@ Atuo criando soluções escaláveis, interfaces performáticas e integrações r
 
 ---
 
-## 🚀 Tecnologias que utilizo no dia a dia
+## 🚀 Tecnologias que utilizo 
 
 ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 - Aplicações corporativas
