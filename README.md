@@ -11,7 +11,7 @@ Atualmente atuo criando soluções escaláveis, interfaces performáticas e inte
 - Integração com Firebase
 - Animações e UI avançada
 
-### 🧊 Delphi
+###![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 - Aplicações corporativas
 - Rest/HTTP integrations
 - FireDAC / SQL
