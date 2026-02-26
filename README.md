@@ -1,21 +1,22 @@
-Sou desenvolvedor com experiência em **Flutter**, **Delphi**, **JavaScript**, além de interesse em **Docker, arquitetura limpa, automação** e boas práticas de desenvolvimento.  
-Atualmente atuo criando soluções escaláveis, interfaces performáticas e integrações robustas.
+Sou desenvolvedor com experiência em Flutter, Delphi, JavaScript e TypeScript, com interesse em Docker, Arquitetura Limpa, Automação e boas práticas de desenvolvimento.
+
+Atuo criando soluções escaláveis, interfaces performáticas e integrações robustas, sempre buscando código limpo e sustentável.
 
 ---
 
 ## 🚀 Tecnologias que utilizo no dia a dia
+
+![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+- Aplicações corporativas
+- Rest/HTTP integrations
+![Firebird](https://img.shields.io/badge/Firebird-CC0000?style=for-the-badge&logo=firebird&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - Desenvolvimento de apps escaláveis
 - Gerenciamento de estado (Provider, Riverpod, Bloc)
 - Integração com Firebase
 - Animações e UI avançada
-
-![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
-- Aplicações corporativas
-- Rest/HTTP integrations
-- 
-![Firebird](https://img.shields.io/badge/Firebird-CC0000?style=for-the-badge&logo=firebird&logoColor=white)
+![Firebase_Platform](https://img.shields.io/badge/Firebase_Platform-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - Automação de processos
