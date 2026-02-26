@@ -1,4 +1,4 @@
-Sou desenvolvedor com experiência em Flutter, Delphi, JavaScript e TypeScript, com interesse em Docker, Arquitetura Limpa, Automação e boas práticas de desenvolvimento.
+Sou desenvolvedor com experiência em Delphi, Flutter, JavaScript e TypeScript, com interesse em Docker, Arquitetura Limpa, Automação e boas práticas de desenvolvimento.
 
 Atuo criando soluções escaláveis, interfaces performáticas e integrações robustas, sempre buscando código limpo e sustentável.
 
