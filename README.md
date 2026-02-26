@@ -11,18 +11,20 @@ Atualmente atuo criando soluções escaláveis, interfaces performáticas e inte
 - Integração com Firebase
 - Animações e UI avançada
 
-###![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 - Aplicações corporativas
 - Rest/HTTP integrations
-- FireDAC / SQL
+![Firebird](https://img.shields.io/badge/Firebird-CC0000?style=for-the-badge&logo=firebird&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - Automação de processos
 
-### 🟨 JavaScript / TypeScript
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - Node.js
 - React (básico)
 - APIs REST
 
-### 🐳 Docker
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 - Containers para desenvolvimento
 - Docker Compose
 - Ambientes isolados para APIs e bancos
