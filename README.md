@@ -36,12 +36,6 @@ Atuo criando soluções escaláveis, interfaces performáticas e integrações r
 
 ---
 
-## 🛠️ Ferramentas & Stacks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,delphi,js,ts,nodejs,firebase,git,docker,linux,postgres,mysql" />
-</p>
-
 
 
 
