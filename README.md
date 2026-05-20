@@ -1,6 +1,6 @@
 # Olá, eu sou o André Fernandes! 👋
 
-Experiente em **Delphi, Flutter, JavaScript e TypeScript**, sou um desenvolvedor focado em criar soluções escaláveis, interfaces de alta performance e integrações robustas. Busco constantemente aplicar conceitos de **Arquitetura Limpa (Clean Architecture), Automação e boas práticas** para garantir um código limpo, testável e sustentável.
+Experiente em **Delphi, Flutter, JavaScript e TypeScript**, sou um desenvolvedor focado em criar soluções escaláveis, interfaces de alta performance e integrações robustas. Busco constantemente aplicar conceitos de **Clean Architecture, Automação e boas práticas** para garantir um código limpo, testável e sustentável.
 
 No momento, estou expandindo meu ecossistema backend e frontend com foco em **.NET** e **Angular**.
 
