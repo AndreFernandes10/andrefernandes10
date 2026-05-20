@@ -40,8 +40,9 @@ No momento, estou expandindo meu ecossistema backend e frontend com foco em **.N
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrefernandes10&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefernandes10&layout=compact&theme=gotham&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrefernandes10&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrefernandes10&layout=compact&theme=gotham&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
