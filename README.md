@@ -54,8 +54,17 @@ Atualmente, aprofundando meus conhecimentos no ecossistema **.NET e Angular**.
 ### GitHub Analytics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrefernandes10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrefernandes10&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=andrefernandes10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefernandes10&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
