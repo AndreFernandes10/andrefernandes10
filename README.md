@@ -1,3 +1,4 @@
+
 # André Fernandes
 
 **Software Developer · Full Stack · Mobile**
@@ -14,19 +15,29 @@ Atualmente, aprofundando meus conhecimentos no ecossistema **.NET e Angular**.
 
 **Backend**
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=dotnet,cs,nodejs](https://skillicons.dev/icons?i=dotnet,cs,nodejs)" height="38" alt=".NET, C# and Node.js" />   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg)" height="38" alt="Delphi" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" height="38" alt=".NET, C# and Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="38" alt="Delphi" />
+</p>
 
 **Frontend**
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass](https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass)" height="38" alt="Frontend technologies" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass" height="38" alt="Frontend technologies" />
+</p>
 
 **Mobile**
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=flutter,dart](https://skillicons.dev/icons?i=flutter,dart)" height="38" alt="Flutter and Dart" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="38" alt="Flutter and Dart" />
+</p>
 
 **Database & Infrastructure**
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github](https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github)" height="38" alt="Database and infrastructure technologies" />   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg)" height="38" alt="Firebird" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github" height="38" alt="Database and infrastructure technologies" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg" height="38" alt="Firebird" />
+</p>
 
 ---
 
@@ -42,19 +53,26 @@ Atualmente, aprofundando meus conhecimentos no ecossistema **.NET e Angular**.
 
 ### GitHub Analytics
 
-\<p align="left">
-&#x20; \<img height="165" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=andrefernandes10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=andrefernandes10\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=58A6FF\&icon_color=58A6FF\&text_color=C9D1D9\&include_all_commits=true\&count_private=true)" alt="GitHub Statistics" />
-&#x20; \<img height="165" src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrefernandes10&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrefernandes10\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=58A6FF\&text_color=C9D1D9\&langs_count=6)" alt="Most Used Languages" />
-\</p>
+<p align="left">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrefernandes10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrefernandes10&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages" />
+</p>
 
 ---
 
 ### Contact
 
-\<p align="left">   \<a href="[https://linkedin.com/in/andrefernandes1010](https://linkedin.com/in/andrefernandes1010)">     \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" height="30" alt="LinkedIn" />   \</a>   \<a href="mailto\:seu.aalvesrosa4\@gmail.com">     \<img src="[https://skillicons.dev/icons?i=gmail](https://skillicons.dev/icons?i=gmail)" height="30" alt="Email" />   \</a> \</p>
+<p align="left">
+  <a href="https://linkedin.com/in/andrefernandes1010">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu.aalvesrosa4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email" />
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<sub>Building software with purpose, consistency and attention to detail.\</sub>
-\</p>
+<p align="center">
+  <sub>Building software with purpose, consistency and attention to detail.</sub>
+</p>
