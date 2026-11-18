@@ -3,7 +3,7 @@
 
 **Software Developer · Full Stack · Mobile**
 
-Desenvolvedor de software com experiência em **Delphi, Flutter, JavaScript e TypeScript**, atuando no desenvolvimento de aplicações, sistemas corporativos e integrações.
+Desenvolvedor de software com experiência em **Delphi, Flutter, React.js, JavaScript e TypeScript**, atuando no desenvolvimento de aplicações, sistemas corporativos e integrações.
 
 Tenho interesse em arquitetura de software, desenvolvimento de APIs, automação e construção de soluções escaláveis. Busco unir qualidade técnica, código sustentável e boas práticas de engenharia.
 
@@ -41,7 +41,7 @@ Atualmente, aprofundando meus conhecimentos no ecossistema **.NET e Angular**.
 
 ---
 
-### Areas of Focus
+### Áreas de Foco
 
 - **Software Engineering:** Clean Architecture, SOLID, Design Patterns e código sustentável.
 - **Backend Development:** APIs REST, integrações, autenticação e serviços.
@@ -69,7 +69,7 @@ Atualmente, aprofundando meus conhecimentos no ecossistema **.NET e Angular**.
 
 ---
 
-### Contact
+### Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/andrefernandes1010">
